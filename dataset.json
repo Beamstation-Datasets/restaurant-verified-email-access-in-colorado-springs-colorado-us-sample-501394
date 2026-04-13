@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Colorado Springs, Colorado, US",
+  "export_job_id": "f5694cb4-988e-42fe-8349-fe50932b00b8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 501394,
+  "location_name": "Colorado Springs",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-colorado-springs-colorado-us-sample-501394",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/501394/beamstation_501394_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 34,
+  "sample_sha256": "3df801e97b9bbc62fda716f78d36c4533a1e9b1aaac2c87ab102d32f27cfeae7",
+  "sample_size_bytes": 159807,
+  "total_records": 341,
+  "updated_at": "2026-04-07T23:19:23.472801+00:00"
+}

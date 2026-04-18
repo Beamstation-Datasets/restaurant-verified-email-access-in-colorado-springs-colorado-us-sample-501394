@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f5694cb4-988e-42fe-8349-fe50932b00b8",
+  "export_job_id": "3731cfb2-e606-436f-b1cf-e4b8653eb5d0",
   "id_short": 501394,
-  "published_at": "2026-04-13T19:05:55Z",
+  "published_at": "2026-04-18T19:15:25Z",
   "repo_name": "restaurant-verified-email-access-in-colorado-springs-colorado-us-sample-501394",
   "sample_asset_name": "beamstation_501394_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/501394/beamstation_501394_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "3df801e97b9bbc62fda716f78d36c4533a1e9b1aaac2c87ab102d32f27cfeae7",
-  "sample_size_bytes": 159807,
-  "total_records": 341
+  "sample_records": 33,
+  "sample_sha256": "dc8e5ce1197a727bbb6e4ca1f03dd59f024ceced9bc6badd3e96cda0a0aa4256",
+  "sample_size_bytes": 149422,
+  "total_records": 331
 }
